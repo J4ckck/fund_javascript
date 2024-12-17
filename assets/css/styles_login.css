@@ -58,7 +58,7 @@ section#login {
 
 section#login>div#imagem {
     display: block;
-    background: #000000 url(/assets/the_leavers.png) no-repeat;
+    background: #000000 url(./assets/the_leavers.png) no-repeat;
     background-size: cover;
     background-position: left center;
     height: 200px;
@@ -195,7 +195,7 @@ font-size: 1.8em;
         float: left;
         width: 30%;
         height: 100%;
-        background: #000000 url(/assets/the_leavers.png) no-repeat;
+        background: #000000 url(./assets/the_leavers.png) no-repeat;
         background-size: cover;
         background-position: right bottom;
 
@@ -227,7 +227,7 @@ font-size: 1.8em;
         float: right;
         width: 50%;
         height: 100%;
-        background: #000000 url(/assets/the_leavers.png) no-repeat;
+        background: #000000 url(./assets/the_leavers.png) no-repeat;
         background-size: cover;
         background-position: right center;
         /*  */
